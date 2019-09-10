@@ -21,7 +21,7 @@ Add it in your root build.gradle at the end of repositories:
 #### Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.1510766316:AudioPlayer:1.0.0'
+	        implementation 'com.github.dykz:AudioPlayer:1.0.0'
 	}
 
 ## 目前测试发现 对amr,mp3,wav 音频支持较好，flac支持较差
